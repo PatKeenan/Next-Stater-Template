@@ -1,5 +1,5 @@
 import { AppProps } from '@types';
-import '../styles/globals.css';
+import '../styles/global.css';
 
 function MyApp({ Component, pageProps }: AppProps) {
     return <Component {...pageProps} />;
